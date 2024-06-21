@@ -1,9 +1,3 @@
----
-layout: post
-title: Week 1
-by: Maxwell Adeniji
----
-
 During the first week, I met with my project supervisor(Dr. Mack) and my graduate mentors to discuss the project 
 that I and my fellow team members would be working on, and gained an understanding of what the project outcome should be as well. 
 My mentors also explained to me what our project, "Brain-Computer Interface in Game Development (BCI)", is all about, the basic project prerequisites we as team members ought to be knowledgeable about before starting off the project.
