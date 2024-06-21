@@ -1,6 +1,6 @@
 ## About My Project
 
-mBot Neo
+Mind Mastery
 
 Problem: There is a lack of reasearch focusing on exploring ways to build gaming software that creates  a seamless, reliable, and efficient communication pathways between the human brain and external devices for 3D gaming. 
 
