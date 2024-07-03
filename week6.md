@@ -1,0 +1,7 @@
+Welcome to my week 6 journal!!! It has been a ride for the last half portion of this program.
+This week, we finalised a presentation of all the work everyone in this program did so far, to be
+shown to the supervisors of the program. In my team's project, i was tasked with gathering and 
+analyzing the data required for the controls of the game, directly from the muse headset. There 
+were some problems that I experienced during this process(such as installing the packages required 
+for data collection), but I was able to bypass those issues by making use of other python packages.
+Its definitely been a good week so far, and i look forward to more of it.
